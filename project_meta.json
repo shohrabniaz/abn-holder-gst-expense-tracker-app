@@ -1,10 +1,17 @@
 {
-  "seq": 88,
   "title": "ABN Holder GST Expense Tracker App",
+  "old_slug": "abn-holder-gst-expense-tracker-app",
   "slug": "abn-holder-gst-expense-tracker-app",
   "folder": "Abn_Holder_Gst_Expense_Tracker_App",
-  "kind": "app",
-  "body_words": 238,
+  "kind": "product",
+  "body_words": 299,
+  "source": "MICT Industry",
   "project_id": "Project 12",
-  "source": "MICT Industry"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  }
 }
